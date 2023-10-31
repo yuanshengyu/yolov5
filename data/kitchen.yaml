@@ -14,5 +14,6 @@ test: # test images (optional)
 
 # Classes
 names:
-  0: rat
-  1: cockroach
+  0: cat
+  1: dog
+  2: rat
