@@ -1,0 +1,9 @@
+path: grommet # dataset root dir
+train: train/images # train images (relative to 'path') 128 images
+val: valid/images # val images (relative to 'path') 128 images
+test: # test images (optional)
+
+# Classes
+names:
+  0: good
+  1: bad
