@@ -1,0 +1,11 @@
+path: /root/autodl-tmp/luosi_yolo
+train: /root/autodl-tmp/luosi_yolo/train/images
+val: /root/autodl-tmp/luosi_yolo/val/images
+nc: 5
+
+names:
+  0: loose
+  1: lost
+  2: wrong
+  3: good
+  4: rust
