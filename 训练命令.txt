@@ -1,0 +1,1 @@
+python train.py --data luosi.yaml --epochs 100 --weights /root/autodl-tmp/yolov5l.pt --cfg yolov5l-2.yaml  --batch-size 32
